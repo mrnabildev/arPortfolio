@@ -66,3 +66,29 @@ a {
   font-family: "League Spartan", sans-serif;
 }
 /* banner part end */
+
+/* about part start */
+#about {
+  padding: 60px 0;
+}
+
+.aboutItems {
+  padding-right: 80px;
+}
+
+.aboutItems h3 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #000;
+  padding-bottom: 20px;
+  font-family: "League Spartan", sans-serif;
+}
+
+.aboutItems p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000;
+  line-height: 20px;
+  font-family: "Roboto", sans-serif;
+}
+/* about part end */

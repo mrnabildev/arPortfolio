@@ -113,3 +113,56 @@ a {
   font-family: "Roboto", sans-serif;
 }
 /* skill part end */
+
+/* project part start */
+#project {
+  padding-bottom: 100px;
+}
+
+.pCard {
+  background: #000;
+  position: relative;
+  height: 460px;
+  width: 360px;
+}
+
+.pCard h4 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  padding: 15px 30px;
+  margin: 0;
+}
+
+.pCard p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 20px;
+  font-family: "Roboto", sans-serif;
+  padding: 5px 30px;
+  margin: 0;
+}
+
+.pCard img {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.slideBtn {
+  padding: 20px 60px;
+  background: #d9d9d9;
+  margin-top: 80px;
+}
+
+.slideBtn p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+}
+/* project part end */

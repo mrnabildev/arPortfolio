@@ -41,3 +41,28 @@ a {
   align-items: center;
 }
 /* Header part end */
+
+/* banner part start */
+#banner {
+  background: #000;
+  padding-top: 200px;
+  padding-bottom: 335px;
+}
+
+.bannerText h1 {
+  font-size: 95px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 115px;
+  font-family: "League Gothic", sans-serif;
+}
+
+.bannerText h3 {
+  font-size: 32px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 30px;
+  letter-spacing: 12px;
+  font-family: "League Spartan", sans-serif;
+}
+/* banner part end */

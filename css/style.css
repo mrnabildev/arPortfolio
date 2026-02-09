@@ -92,3 +92,24 @@ a {
   font-family: "Roboto", sans-serif;
 }
 /* about part end */
+
+/* skill part start */
+#skill {
+  padding-bottom: 100px;
+}
+
+.skillItems h3 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #000;
+  padding-bottom: 25px;
+  font-family: "League Spartan", sans-serif;
+}
+
+.skillItems p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+}
+/* skill part end */

@@ -166,3 +166,29 @@ a {
   font-family: "Roboto", sans-serif;
 }
 /* project part end */
+
+/* footer part start */
+#footer {
+  padding: 160px 0;
+  background: #000;
+}
+
+.pagelink a {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  padding-right: 20px;
+}
+
+.contact p {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.middle {
+  justify-content: center;
+}
+/* footer part end */

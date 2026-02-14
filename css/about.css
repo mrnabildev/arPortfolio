@@ -1,0 +1,135 @@
+/* All common css start */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+/* All common css end */
+
+/* Header part start */
+#head {
+  background: #000;
+  padding-top: 60px;
+}
+
+.headerPart {
+  display: flex;
+  justify-content: space-between;
+}
+/* Header part end */
+
+/* banner part start */
+#banner {
+  background: #000;
+  padding-top: 200px;
+  padding-bottom: 335px;
+}
+
+.bannerText h1 {
+  font-size: 95px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 115px;
+  font-family: "League Gothic", sans-serif;
+}
+
+.bannerText h3 {
+  font-size: 32px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 30px;
+  letter-spacing: 12px;
+  font-family: "League Spartan", sans-serif;
+}
+/* banner part end */
+
+/* about part start */
+#about {
+  margin-bottom: 100px;
+}
+
+.aboutItems {
+  margin-top: 80px;
+  padding-right: 40px;
+}
+
+.aboutItems h3 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #000;
+  padding-bottom: 20px;
+  font-family: "League Spartan", sans-serif;
+}
+
+.aboutItems p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000;
+  line-height: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.slideBtn {
+  padding: 20px 60px;
+  background: #d9d9d9;
+}
+
+.slideBtn p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+}
+
+.row {
+  padding-top: 80px;
+}
+/* about part end */
+
+/* footer part start */
+#footer {
+  padding: 160px 0;
+  background: #000;
+}
+
+.pagelink a {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  padding-right: 20px;
+}
+
+.contact p {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.middle {
+  justify-content: center;
+}
+/* footer part end */
